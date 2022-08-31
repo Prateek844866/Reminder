@@ -1,0 +1,31 @@
+body {
+    background-color: #222629;
+
+}
+
+.main {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 60px;
+    margin-bottom: auto;
+
+}
+
+.box {
+    height: 600px !important;
+    width: 500px !important;
+    border-color: #86c232 !important;
+    background-color: #474b4f;
+}
+
+.cancelbtn:hover {
+    border: none !important;
+    cursor:pointer;
+}
+
+.items {
+    width: 95%;
+    margin: auto;
+    background-color: #86c232;
+}
